@@ -4,7 +4,7 @@ kind: Template
 # some metadata about the template itself
 metadata:
   name: backstage-demo-beer-api
-  title: Scafold for beer api
+  title: Scaffold for beer api
   description: scaffolder v1beta3 template demo
 spec:
   owner: github.com/backstage-test-innovation-day
